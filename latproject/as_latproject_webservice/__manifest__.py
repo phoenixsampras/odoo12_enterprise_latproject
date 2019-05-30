@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name' : "Latproject Webservice",
+    'name' : "Ahorasoft Latproject Webservice",
     'version' : "1.0",
-    'author' : "Ahorasoft S.R.L.",
+    'author'  : "Ahorasoft",
     'description': """
 Latproject Webservice Module
 ===========================
